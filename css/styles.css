@@ -1,3 +1,17 @@
 #result {
   display: none;
 }
+
+body {
+  background-image: url(http://www.psdgraphics.com/file/colorful-triangles-background.jpg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+}
+
+.container {
+  margin-top: 5em;
+  height: 200px;
+  width: 900px;
+  background-color: white;
+}
